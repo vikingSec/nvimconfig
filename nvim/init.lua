@@ -1,0 +1,2 @@
+require("valhalladev")
+print("hello")
